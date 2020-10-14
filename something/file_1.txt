@@ -1,0 +1,12 @@
+Class: vineyards
+
+Attributes:
+style_of_grapes (array)
+acreage (integer)
+anual_yeald (integer)
+
+
+Methods:
+plant_new_grapes (re-asign style_of_grapes string)
+buy_land (add to acreage)
+sell_land (remove acreage)
